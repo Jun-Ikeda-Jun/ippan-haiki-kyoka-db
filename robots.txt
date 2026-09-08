@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jun-ikeda-jun.github.io/ippan-haiki-kyoka-db/sitemap.xml
